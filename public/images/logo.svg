@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 342.66 346.33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #221f1f;
+      }
+
+      .cls-2 {
+        fill: #b88fc1;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-6 {
+        stroke: #221f1f;
+      }
+
+      .cls-7 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16 {
+        font-family: DashHorizon, 'Dash Horizon';
+      }
+
+      .cls-3 {
+        stroke: #fff;
+      }
+
+      .cls-3, .cls-17, .cls-5, .cls-18 {
+        fill: #fff;
+      }
+
+      .cls-8 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-4 {
+        fill: #95298c;
+      }
+
+      .cls-17 {
+        font-size: 22.39px;
+      }
+
+      .cls-9 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-19, .cls-18 {
+        font-family: Achron, 'Achron Regular';
+      }
+
+      .cls-10 {
+        letter-spacing: -.22em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-5 {
+        stroke-width: 3px;
+      }
+
+      .cls-13 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-6 {
+        fill: #994c9c;
+      }
+
+      .cls-18 {
+        font-size: 55.98px;
+      }
+
+      .cls-15 {
+        letter-spacing: -.05em;
+      }
+    </style>
+  </defs>
+  <g id="Home_Page">
+    <g>
+      <circle class="cls-5" cx="171.33" cy="175" r="169.83"/>
+      <circle class="cls-1" cx="171.98" cy="174.01" r="145.04"/>
+      <polygon class="cls-2" points="115.61 158.23 133.02 234.94 124.32 238.67 105.66 160.3 115.61 158.23"/>
+      <path class="cls-4" d="M89.54,172.96l11.77,59.89c.65-.21-8.52,4.14-10.17-.4-.9-2.46-12.95-56.07-12.95-56.07-.56-.39,4.7-4.55,11.34-3.42Z"/>
+      <path class="cls-6" d="M88.24,165.28s12.44,75.88,17.42,76.3c0,0,15.31-1.47,18.66-2.9.19-.08-18.71-78.56-18.66-78.37,0,0-11.2.83-17.42,4.98Z"/>
+      <polygon class="cls-2" points="227.98 158.23 210.15 234.97 219.06 238.67 237.1 160.3 227.98 158.23"/>
+      <path class="cls-4" d="M253.59,174.4c-.49,1.4,3.35-1.2,9.22,2.9,0,0-9.12,56.87-13.27,57.67l-8.3-2.19,12.35-58.38Z"/>
+      <path class="cls-6" d="M255.35,164.45s-14.51,76.71-18.24,77.13c-3.73.41-18.04-2.9-18.04-2.9l18.04-78.37,18.24,4.15Z"/>
+      <path class="cls-6" d="M90.52,164s-10.16-65.48,45.4-90.77c0,0,55.15-23.64,97.03,17.83,0,0,29.23,34.87,19.07,72.64l-12.02-2.73s9.95-36.73-20.94-63.27c0,0-34.18-33.81-76.09-13.27,0,0-44.78,14.48-40.64,76.28l-11.82,3.3Z"/>
+      <text class="cls-18" transform="translate(134.66 173.99)"><tspan x="0" y="0">YJ</tspan></text>
+      <text class="cls-17" transform="translate(78.65 264.46)"><tspan class="cls-7" x="0" y="0">B</tspan><tspan class="cls-16" x="11.58" y="0">y </tspan><tspan class="cls-12" x="25.35" y="0">g</tspan><tspan class="cls-15" x="34.93" y="0">am</tspan><tspan class="cls-9" x="58.17" y="0">e</tspan><tspan class="cls-13" x="67.17" y="0">r</tspan><tspan class="cls-16" x="75.3" y="0">s</tspan><tspan class="cls-19" x="84.59" y="0">.</tspan><tspan class="cls-16" x="88.32" y="0"> </tspan><tspan class="cls-10" x="92.29" y="0">F</tspan><tspan class="cls-11" x="99.52" y="0">o</tspan><tspan class="cls-16" x="108.68" y="0">r </tspan><tspan class="cls-8" x="122.34" y="0">G</tspan><tspan class="cls-14" x="133.26" y="0">am</tspan><tspan class="cls-9" x="156.5" y="0">e</tspan><tspan class="cls-13" x="165.51" y="0">r</tspan><tspan class="cls-16" x="173.63" y="0">s</tspan><tspan class="cls-19" x="182.93" y="0">.</tspan></text>
+      <text/>
+      <rect class="cls-3" x="160.21" y="160.47" width="2.28" height="0" transform="translate(322.69 320.93) rotate(180)"/>
+    </g>
+  </g>
+</svg>

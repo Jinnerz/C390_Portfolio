@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168.68 171.09">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        font-family: DashHorizon, 'Dash Horizon';
+      }
+
+      .cls-2 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-10 {
+        fill: #221f1f;
+        stroke-width: .5px;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-10, .cls-11, .cls-14, .cls-15, .cls-16 {
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-11 {
+        fill: #3a489e;
+      }
+
+      .cls-4 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.23em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-17 {
+        font-family: Achron, 'Achron Regular';
+        font-size: 27.31px;
+      }
+
+      .cls-17, .cls-12, .cls-18 {
+        fill: #fff;
+      }
+
+      .cls-12 {
+        stroke-width: 3px;
+      }
+
+      .cls-12, .cls-13 {
+        stroke: #221f1f;
+      }
+
+      .cls-7 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-13 {
+        fill: none;
+      }
+
+      .cls-19 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-14 {
+        fill: #a5add8;
+      }
+
+      .cls-15 {
+        fill: #3e5fac;
+      }
+
+      .cls-18 {
+        font-size: 10.92px;
+      }
+
+      .cls-16 {
+        fill: #3c3292;
+      }
+
+      .cls-8 {
+        letter-spacing: -.09em;
+      }
+    </style>
+  </defs>
+  <g id="Home_Page">
+    <g>
+      <circle class="cls-12" cx="84.34" cy="86.75" r="82.84"/>
+      <circle class="cls-10" cx="84.66" cy="86.27" r="70.75"/>
+      <polygon class="cls-14" points="57.16 77.18 65.66 114.6 61.41 116.42 52.31 78.19 57.16 77.18"/>
+      <path class="cls-16" d="M44.44,84.37l5.74,29.21c.32-.1-4.15,2.02-4.96-.19-.44-1.2-6.32-27.35-6.32-27.35-.27-.19,2.29-2.22,5.53-1.67Z"/>
+      <path class="cls-11" d="M43.81,80.62s6.07,37.01,8.5,37.22c0,0,7.47-.71,9.1-1.42.09-.04-9.13-38.32-9.1-38.23,0,0-5.46.4-8.5,2.43Z"/>
+      <polygon class="cls-14" points="111.98 77.18 103.28 114.62 107.63 116.42 116.43 78.19 111.98 77.18"/>
+      <path class="cls-16" d="M124.47,85.07c-.24.69,1.63-.59,4.5,1.42,0,0-4.45,27.74-6.47,28.13l-4.05-1.07,6.02-28.48Z"/>
+      <path class="cls-11" d="M125.33,80.22s-7.08,37.42-8.9,37.62c-1.82.2-8.8-1.42-8.8-1.42l8.8-38.23,8.9,2.02Z"/>
+      <path class="cls-15" d="M44.92,80s-4.96-31.94,22.15-44.28c0,0,26.9-11.53,47.33,8.7,0,0,14.26,17.01,9.3,35.43l-5.86-1.33s4.85-17.92-10.21-30.86c0,0-16.67-16.49-37.12-6.47,0,0-21.84,7.06-19.82,37.21l-5.76,1.61Z"/>
+      <text class="cls-17" transform="translate(61.23 83.84)"><tspan x="0" y="0">JIN</tspan></text>
+      <text class="cls-18" transform="translate(56.32 140.89)"><tspan class="cls-5" x="0" y="0">K</tspan><tspan class="cls-4" x="5" y="0">e</tspan><tspan class="cls-8" x="9.25" y="0">e</tspan><tspan class="cls-9" x="13.06" y="0">p </tspan><tspan class="cls-7" x="20.44" y="0">E</tspan><tspan class="cls-3" x="25.22" y="0">x</tspan><tspan class="cls-1" x="29.82" y="0">p</tspan><tspan class="cls-8" x="34.6" y="0">l</tspan><tspan class="cls-2" x="37" y="0">o</tspan><tspan class="cls-6" x="41.47" y="0">ri</tspan><tspan class="cls-8" x="47.56" y="0">n</tspan><tspan class="cls-9" x="51.63" y="0">g</tspan><tspan class="cls-19" x="57.11" y="0">.</tspan></text>
+      <text/>
+      <rect class="cls-13" x="78.92" y="78.27" width="1.11" height="0"/>
+    </g>
+  </g>
+</svg>
